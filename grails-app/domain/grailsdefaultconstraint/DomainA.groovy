@@ -1,0 +1,6 @@
+package grailsdefaultconstraint
+
+class DomainA {
+
+
+}
